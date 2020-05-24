@@ -35,7 +35,7 @@ paginate = 3
     ampElements = ["amp-iframe", "amp-analytics", "amp-social-share", "amp-install-serviceworker"]
 
     # Google Analytics code
-    # googleAnalytics = "UA-xxxxxxxxx-x"
+    googleAnalytics = "UA-167424287-1"
 
     # Adsense publisher code
     # adsensePublisher = "ca-pub-123456789"
