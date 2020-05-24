@@ -4,6 +4,7 @@ DefaultContentLanguage = "en"
 baseURL = "https://example.com"
 
 theme = "mytheme"
+name= "SaasTips"
 
 pygmentsUseClasses = true
 
@@ -21,17 +22,13 @@ paginate = 3
         weight = 1
 # Menu elements
 [[menu.main]]
-    identifier = "hugo"
-    name = "GoHugo"
-    url = "https://gohugo.io"
+    identifier = "saastips"
+    name = "SaasTips"
     weight = 8
 
-# Enable only tags taxonomy
-[taxonomies]
-    tag = "tags"
 
 [params]
-    copyright = "Amperage" # Name shown on footer copyright
+    copyright = "SaasTips" # Name shown on footer copyright
     themeColor = "#333" # Theme color displayed on mobile browsers
 
     # Default AMP components for the whole site
