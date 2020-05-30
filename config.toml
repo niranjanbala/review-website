@@ -17,8 +17,8 @@ paginate = 3
         contentDir = "content"
         languageName = "English"
         languageCode = "en"
-        title = "Amperage theme!"
-        description = "This is an demo for the Amperage theme!"
+        title = "SaasTips"
+        description = "SaasTips"
         weight = 1
 # Menu elements
 [[menu.main]]
