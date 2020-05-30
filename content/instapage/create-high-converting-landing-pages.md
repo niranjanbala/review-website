@@ -1,5 +1,6 @@
 ---
 title: Introduction to Instapage
+description: Introduction to Instapage
 date: 2020-01-27T05:58:22.000+00:00
 categories:
 - marketing
