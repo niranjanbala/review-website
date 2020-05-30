@@ -36,4 +36,16 @@ Some incredibly cool and useful features are only available on the enterprise pl
 
 ### Features
 
+* Landing Page Builder
+* Template Layouts
+* Image Asset Manager
+* AMP Landing Pages
+* Experiences
+* Alignment, Grouping, & Distribution
+* Experimentation
+* InstaBlocks
+* Global Blocks
+* Widgets
+* 1:1 Ad-to-Page Personalization 
+
 If you are planning to set up a landing page for your next promotion campaign, do give [Instapage](https://instapage.grsm.io/NiranjanBala) a try!
