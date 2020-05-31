@@ -50,4 +50,6 @@ Some incredibly cool and useful features are only available on the enterprise pl
 * Widgets
 * 1:1 Ad-to-Page Personalization 
 
-If you are planning to set up a landing page for your next promotion campaign, do give [Instapage](https://instapage.grsm.io/NiranjanBala) a try!
+If you are planning to set up a landing page for your next promotion campaign, do give [Instapage][1] a try!
+
+[1]: https://instapage.grsm.io/NiranjanBala
